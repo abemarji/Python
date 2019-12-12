@@ -16,8 +16,3 @@ with open("show_version.txt") as f:
 
 print(output2)
 print(type(output2))
-
-
-
-
-
