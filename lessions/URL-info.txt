@@ -1,4 +1,3 @@
 Free Python Class for Network engineers
 https://pynet.twb-tech.com/email-signup.html
 
-Started
